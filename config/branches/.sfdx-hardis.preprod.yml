@@ -1,0 +1,4 @@
+mergeTargets:
+  - main
+releaseVersioning: true
+releaseVersioningTagFormat: v{MAJ}.{MIN}.{PATCH}-{BRANCH}-rc{RC}

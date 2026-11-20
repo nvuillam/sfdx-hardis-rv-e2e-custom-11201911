@@ -1,0 +1,4 @@
+mergeTargets:
+  - preprod
+releaseVersioning: true
+releaseVersioningTagFormat: v{MAJ}.{MIN}.{PATCH}-pi{PI}-it{IT}-{BRANCH}-rc{RC}

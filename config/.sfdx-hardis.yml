@@ -1,0 +1,6 @@
+projectName: sfdx-hardis-rv-e2e-custom
+developmentBranch: integration
+testLevel: NoTestRun
+releaseVersioningMinimumVariables:
+  PI: 2
+  IT: 4

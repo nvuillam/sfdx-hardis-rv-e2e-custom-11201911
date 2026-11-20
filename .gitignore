@@ -1,0 +1,5 @@
+.sf/
+.sfdx/
+hardis-report/
+config/user/
+node_modules/

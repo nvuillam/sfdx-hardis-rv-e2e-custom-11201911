@@ -2,3 +2,5 @@ mergeTargets:
   - preprod
 releaseVersioning: true
 releaseVersioningTagFormat: v{MAJ}.{MIN}.{PATCH}-pi{PI}-it{IT}-{BRANCH}-rc{RC}
+targetUsername: test-yqnmezmtjrtz@example.com
+instanceUrl: https://site-innovation-2991-dev-ed.scratch.my.salesforce.com

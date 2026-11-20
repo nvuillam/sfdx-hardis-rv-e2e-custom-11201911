@@ -2,3 +2,5 @@ mergeTargets:
   - main
 releaseVersioning: true
 releaseVersioningTagFormat: v{MAJ}.{MIN}.{PATCH}-{BRANCH}-rc{RC}
+targetUsername: test-yqnmezmtjrtz@example.com
+instanceUrl: https://site-innovation-2991-dev-ed.scratch.my.salesforce.com

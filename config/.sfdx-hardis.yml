@@ -3,4 +3,4 @@ developmentBranch: integration
 testLevel: NoTestRun
 releaseVersioningMinimumVariables:
   PI: 2
-  IT: 4
+  IT: 5
